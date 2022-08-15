@@ -1,11 +1,11 @@
 # Feature Engineering (Kaggle)
 En este curso se profundiza sobre uno de los pasos más importantes en el camino hacia la construcción de un gran modelo de aprendizaje automático: la ingeniería de características o **feature engineering**. Se mostrará como:
 
-- Determinar qué características son las más importantes con **Mutual information**
-- Inventar nuevas características utilizando conocimentos del mundo real (**Feature creation**)
-- Crear características de segmentación con **K-Means clustering**
-- Descomponer la variación de un conjunto de datos en características con **Principal Component Analysis**
-- Codificar categorías de alta cardinalidad con **Target Encoding**
+- Determinar qué características son las más importantes con **[Mutual information](mutual_information_notes.ipynb)**
+- Inventar nuevas características utilizando conocimentos del mundo real (**[Feature creation](creating_features_notes.ipynb)**)
+- Crear características de segmentación con **[K-Means clustering](kmeans_clustering_notes.ipynb)**
+- Descomponer la variación de un conjunto de datos en características con **[Principal Component Analysis](principal_component_analysis.ipynb)**
+- Codificar categorías de alta cardinalidad con **[Target Encoding](target_encoding_notes.ipynb)**
 
 El objetivo de la ingeniería de características o **feature engineering** es simplemente hacer que los datos se adapten mejor al problema en cuestión.
 
